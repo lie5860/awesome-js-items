@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "baseUrl": "./app-demo",
+    "jsx": "react",
+    "lib": ["ES2015"],
+    "moduleResolution": "Node",
+    "esModuleInterop": true
+  }
+}
